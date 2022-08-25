@@ -36,11 +36,6 @@
     ]
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.35.1",
-    "@typescript-eslint/parser": "^5.35.1",
-    "eslint": "^8.22.0",
-    "eslint-plugin-react": "^7.31.0",
-    "saas": "^1.0.0",
     "ts-migrate": "^0.1.31"
   }
 }
