@@ -1,11 +1,9 @@
 import React from 'react';
 
-function App() {
-  return (
-    <div className="App">
-      Hello, World!
-    </div>
-  );
-}
-
-export default App;
+export const App: React.FC = (): JSX.Element => {
+	return (
+		<div>
+            Hello, World!
+		</div>
+	);
+};
